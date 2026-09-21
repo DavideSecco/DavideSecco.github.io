@@ -1,0 +1,41 @@
+cv:
+  name: Davide Secco
+  label: PhD Student in Statistics and Computer Science
+  email: davide.secco@unibocconi.it
+  location: Milan, Italy
+  image: ""
+  summary: PhD student in Statistics and Computer Science at Bocconi University. # TODO: add a 1-2 sentence summary of your research interests
+
+  social_networks:
+    - network: GitHub
+      username: DavideSecco
+
+  sections:
+    Education:
+      - institution: Bocconi University
+        location: Milan, Italy
+        area: Statistics and Computer Science
+        studyType: PhD
+        start_date: 2024 # TODO: set your actual start year
+        end_date: present
+        highlights: []
+      # TODO: add your previous degrees (MSc, BSc, institution, dates)
+
+    Experience: []
+    # TODO: add relevant work/research experience
+
+    Publications: []
+    # TODO: add publications as they come, or leave empty and rely on the Publications page (_bibliography/papers.bib)
+
+    Skills: []
+    # TODO: add your technical skills, e.g.:
+    # - name: Programming
+    #   level: Proficient
+    #   keywords: "Python, R, ..."
+
+    Languages: []
+    # TODO: add languages, e.g.:
+    # - name: Italian
+    #   summary: "Native speaker"
+    # - name: English
+    #   summary: "Fluent"
