@@ -9,6 +9,8 @@ cv:
   social_networks:
     - network: GitHub
       username: DavideSecco
+    - network: LinkedIn
+      username: davide-secco-a1805b220
 
   sections:
     Education:
@@ -16,22 +18,98 @@ cv:
         location: Milan, Italy
         area: Statistics and Computer Science
         studyType: PhD
-        start_date: 2024 # TODO: set your actual start year
+        start_date: 2026-09
         end_date: present
         highlights: []
-      # TODO: add your previous degrees (MSc, BSc, institution, dates)
 
-    Experience: []
-    # TODO: add relevant work/research experience
+      - institution: Politecnico di Milano
+        location: Milan, Italy
+        area: Artificial Intelligence
+        studyType: MSc
+        start_date: 2023-02
+        end_date: 2026-03
+        highlights: []
+
+      - institution: Università degli Studi di Modena e Reggio Emilia
+        location: Modena, Italy
+        area: Computer Engineering
+        studyType: BSc
+        start_date: 2019-09
+        end_date: 2022-12
+        highlights: []
+
+      - institution: Gdańsk University of Technology (Politechnika Gdańska)
+        location: Gdańsk, Poland
+        area: Computer Engineering
+        studyType: Exchange Programme
+        start_date: 2021-09
+        end_date: 2022-02
+        highlights: []
+
+    Experience:
+      - company: Università Bocconi
+        position: Research Project Assistant
+        location: Milan, Italy
+        start_date: 2026-04
+        end_date: present
+        highlights: []
+
+      - company: AIDA (Artificial Intelligence Driving Autonomous) - Politecnico di Milano
+        position: Master's Thesis
+        location: Milan, Italy
+        start_date: 2025-02
+        end_date: 2026-03
+        highlights: []
+
+      - company: NECSTLab, Politecnico di Milano
+        position: Undergraduate/Graduate Researcher
+        location: Milan, Italy
+        start_date: 2023-09
+        end_date: 2026-03
+        highlights: []
+
+      - company: ICARO UniMoRe
+        position: Student Participant
+        location: Modena, Italy
+        start_date: 2022-02
+        end_date: 2022-07
+        summary: Participated in ICARO UNIMORE, an experimental program training students in innovation and entrepreneurship in collaboration with Fondazione Golinelli and local companies, developing projects for real business challenges in multidisciplinary teams.
+        highlights: []
+
+      - company: Università degli Studi di Modena e Reggio Emilia
+        position: Tutor, "Ragazze Digitali"
+        location: Modena, Italy
+        start_date: 2022-06
+        end_date: 2022-06
+        highlights: []
 
     Publications: []
     # TODO: add publications as they come, or leave empty and rely on the Publications page (_bibliography/papers.bib)
 
-    Skills: []
-    # TODO: add your technical skills, e.g.:
-    # - name: Programming
-    #   level: Proficient
-    #   keywords: "Python, R, ..."
+    Skills:
+      - name: Autonomous Vehicles
+        level: ""
+        keywords: ""
+      - name: Software Development
+        level: ""
+        keywords: ""
+      - name: Pattern Recognition
+        level: ""
+        keywords: ""
+
+    Certificates:
+      - name: "Startup101 - Dall'idea all'azione"
+        date: ""
+        issuer: ""
+      - name: Employability
+        date: ""
+        issuer: ""
+      - name: "Practical course on science dissemination: Talking about science through a podcast"
+        date: ""
+        issuer: ""
+      - name: "Creativity and innovation: is it possible to learn creativity?"
+        date: ""
+        issuer: ""
 
     Languages: []
     # TODO: add languages, e.g.:
